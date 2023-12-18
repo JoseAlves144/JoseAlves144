@@ -1,10 +1,6 @@
 <h1 align="center">Ola 👋, eu sou José</h1>
 <h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josealves144&label=Profile%20views&color=0e75b6&style=flat" alt="josealves144" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josealves144" alt="josealves144" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de dados [Painel de Produção](https://app.powerbi.com/links/V5KrMHqwPc?ctid=891b4788-a05b-4ee0-a919-a5511922f65c&pbi_source=linkShare)
 
 - 🌱Atualmente estou estudando **Qualidade de Dados e SQL**
@@ -30,9 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josealves144&show_icons=true&locale=en&layout=compact" alt="josealves144" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josealves144&show_icons=true&locale=en" alt="josealves144" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josealves144&show_icons=true&locale=en&layout=compact" alt="josealves144" /></p>
 <!--
 ### Hi there 👋
 
