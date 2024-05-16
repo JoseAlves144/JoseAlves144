@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Análise de Dados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #2c3e50, #3498db);
+            color: #ecf0f1;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            background: #34495e;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        .section h2 {
+            margin-bottom: 20px;
+        }
+        .skills, .projects, .blog {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .skill, .project, .post {
+            background: #3b5998;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 8px;
+            width: 30%;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .contact-form {
+            background: #3b5998;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            width: 50%;
+            margin: 0 auto;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            border: none;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            background: #3498db;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #2980b9;
+        }
+        footer {
+            padding: 20px;
+            background: #34495e;
+        }
+        footer p {
+            margin: 0;
+        }
+        .social-links a {
+            color: #ecf0f1;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Portfólio de Análise de Dados</h1>
+    </header>
+    <div class="container">
+        <div class="section" id="about">
+            <h2>Sobre Mim</h2>
+            <p>Sou um Analista de Dados apaixonado por transformar dados em insights valiosos.</p>
+        </div>
+        <div class="section" id="skills">
+            <h2>Habilidades</h2>
+            <div class="skills">
+                <div class="skill">
+                    <h3>Python</h3>
+                    <p>Experiência com Pandas, NumPy e Matplotlib.</p>
+                </div>
+                <div class="skill">
+                    <h3>SQL</h3>
+                    <p>Proficiente em consultas e otimização de banco de dados.</p>
+                </div>
+                <div class="skill">
+                    <h3>Machine Learning</h3>
+                    <p>Implementação de modelos preditivos e de classificação.</p>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="projects">
+            <h2>Projetos</h2>
+            <div class="projects">
+                <div class="project">
+                    <h3>Análise de Vendas</h3>
+                    <p>Projeto de análise de vendas utilizando Python e SQL para insights de negócios.</p>
+                </div>
+                <div class="project">
+                    <h3>Previsão de Demanda</h3>
+                    <p>Modelo de machine learning para previsão de demanda em um e-commerce.</p>
+                </div>
+                <div class="project">
+                    <h3>Dashboard Interativo</h3>
+                    <p>Criação de dashboards interativos com Power BI para visualização de dados.</p>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="blog">
+            <h2>Blog</h2>
+            <div class="blog">
+                <div class="post">
+                    <h3>Introdução ao Data Science</h3>
+                    <p>Um guia básico para começar na área de Data Science.</p>
+                </div>
+                <div class="post">
+                    <h3>Visualização de Dados</h3>
+                    <p>Importância da visualização de dados na tomada de decisões.</p>
+                </div>
+                <div class="post">
+                    <h3>Machine Learning na Prática</h3>
+                    <p>Como implementar modelos de machine learning no mundo real.</p>
+                </div>
+            </div>
+        </div>
+        <div class="section" id="contact">
+            <h2>Contato</h2>
+            <form class="contact-form">
+                <input type="text" name="name" placeholder="Seu Nome" required>
+                <input type="email" name="email" placeholder="Seu Email" required>
+                <textarea name="message" placeholder="Sua Mensagem" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <div class="social-links">
+            <a href="https://github.com/seuperfil">GitHub</a>
+            <a href="https://linkedin.com/in/seuperfil">LinkedIn</a>
+            <a href="https://twitter.com/seuperfil">Twitter</a>
+        </div>
+        <p>&copy; 2024 Seu Nome. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
