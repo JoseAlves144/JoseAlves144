@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jose-alves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-jose-alves.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://jose-alves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-jose--alves.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-alves-825735168/"><img src="https://img.shields.io/badge/LinkedIn-José%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/São%20Paulo-Brasil-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil"/>
 </p>
