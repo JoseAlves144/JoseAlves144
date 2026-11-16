@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://josealves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-josealves.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://jose-alves.vercel.app"><img src="https://img.shields.io/badge/Portfólio-jose-alves.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-alves-825735168/"><img src="https://img.shields.io/badge/LinkedIn-José%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/São%20Paulo-Brasil-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil"/>
 </p>
@@ -84,12 +84,12 @@ Hoje combino **Engenharia de Dados, Cloud e IA Generativa** para construir **age
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **[Portfólio](https://josealves.vercel.app)** | Site pessoal com SEO, Open Graph gerado no build, blog estático e tema dark/light | Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion |
+| **[Portfólio](https://jose-alves.vercel.app)** · [código](https://github.com/JoseAlves144/jose-alves-portfolio) | Site pessoal com SEO, Open Graph gerado no build, blog estático e tema dark/light | Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion |
 | **Executive Briefing Agent** | Agente de IA que gera um briefing executivo diário e personalizado por e-mail, com curadoria de notícias e checklist de fatos | Claude · MCP · Prompt Engineering · Gmail |
 | **Alves AI Framework** | Framework de engenharia para desenvolvimento assistido por IA: constituição, skills especializadas, templates, ADRs e CI | Claude Code · PowerShell · GitHub Actions |
 | **Jarvis** | Assistente de voz sobre o Claude Code | Python · Claude |
 
-> Projetos corporativos de detecção de fraudes, agente text-to-SQL em BigQuery e dashboards executivos estão descritos no [portfólio](https://josealves.vercel.app) (código confidencial).
+> Projetos corporativos de detecção de fraudes, agente text-to-SQL em BigQuery e dashboards executivos estão descritos no [portfólio](https://jose-alves.vercel.app) (código confidencial).
 
 ## Formação
 
